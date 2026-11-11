@@ -275,11 +275,4 @@ python -m pytest tests/
 Projet de fin de module — **Programmation Python Avancée**
 Université Chouaïb Doukkali, Faculté des Sciences, El Jadida — AU 2025/2026
 
-## Auteurs
 
-- **Nom Prénom** — [@votre-pseudo](https://github.com/votre-pseudo)
-- **Nom Prénom** — [@pseudo-coequipier](https://github.com/pseudo-coequipier)
-
-## Licence
-
-Distribué sous licence **MIT**. Voir le fichier `LICENSE` pour plus de détails.
